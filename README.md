@@ -70,7 +70,6 @@ My experience includes **frontend development, C#/.NET application development, 
 ---
 
 ## ⭐ Featured Projects
-
 💬 LAN VoIP Communication System
 
 C#/.NET WinForms desktop application for real-time voice communication over wired and wireless LAN networks
@@ -96,13 +95,12 @@ My Contribution
 
 Designed and developed the WinForms desktop application using C#/.NET, including the client/server architecture, UDP-based LAN communication, real-time audio capture and playback, audio processing, device handling, and communication reliability features.
 
-**Tech Stack**
+Tech Stack
 
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square\&logo=c-sharp\&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square\&logo=dotnet\&logoColor=white)
-![UDP](https://img.shields.io/badge/UDP-0078D6?style=flat-square\&logo=cisco\&logoColor=white)
-![NAudio](https://img.shields.io/badge/NAudio-5C2D91?style=flat-square\&logo=nuget\&logoColor=white)
-![Opus](https://img.shields.io/badge/Opus-0099CC?style=flat-square\&logo=opus\&logoColor=white)
+
+
+
+
 
 ---
 
