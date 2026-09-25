@@ -70,17 +70,20 @@ My experience includes **frontend development, C#/.NET application development, 
 ---
 
 ## ⭐ Featured Projects
-💬 LAN VoIP Communication System
 
-C#/.NET WinForms desktop application for real-time voice communication over wired and wireless LAN networks
+### 💬 LAN VoIP Communication System
 
-<div align="center"> <img src="./images/voip.png" width="80%" alt="LAN VoIP WinForms Desktop Application" /> </div>
+> *C#/.NET WinForms desktop application for real-time voice communication over wired and wireless LAN networks*
 
-Application Type
+<div align="center">
+  <img src="./images/voip.png" width="80%" alt="LAN VoIP WinForms Desktop Application" />
+</div>
+
+**Application Type**
 
 🖥️ Windows Forms Desktop Application • 📡 LAN Communication • 🎙️ Real-Time Voice Communication
 
-Features
+**Features**
 
 ✅ Full-Duplex Voice Communication •
 ✅ Opus Codec •
@@ -91,16 +94,17 @@ Features
 ✅ Audio Device Switching •
 ✅ Wired & Wireless LAN Support
 
-My Contribution
+**My Contribution**
 
-Designed and developed the WinForms desktop application using C#/.NET, including the client/server architecture, UDP-based LAN communication, real-time audio capture and playback, audio processing, device handling, and communication reliability features.
+Designed and developed the WinForms desktop application using **C#/.NET**, including the client/server architecture, UDP-based LAN communication, real-time audio capture and playback, audio processing, device handling, and communication reliability features.
 
-Tech Stack
+**Tech Stack**
 
-
-
-
-
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square\&logo=c-sharp\&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square\&logo=dotnet\&logoColor=white)
+![UDP](https://img.shields.io/badge/UDP-0078D6?style=flat-square\&logoColor=white)
+![NAudio](https://img.shields.io/badge/NAudio-5C2D91?style=flat-square\&logo=nuget\&logoColor=white)
+![Opus](https://img.shields.io/badge/Opus-0099CC?style=flat-square\&logoColor=white)
 
 ---
 
@@ -113,6 +117,7 @@ Tech Stack
 </div>
 
 **Features**
+
 
 👨‍💼 Admin Portal •
 👨‍🎓 Student Portal •
