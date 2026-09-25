@@ -210,6 +210,37 @@ Designed and developed the WinForms desktop application using C#/.NET, including
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square\&logo=bootstrap\&logoColor=white)
 
 ---
+### 🏫 SFSchool Landing Page
+
+> *Modern landing page for a multi-tenant school management platform*
+
+<div align="center">
+  <img src="./images/sfschool.png" width="80%" alt="SFSchool Landing Page" />
+</div>
+
+**Features**
+
+🌐 Modern Responsive Landing Page •
+🏫 School Management Platform Overview •
+📋 Platform Features & Modules •
+📞 Contact & Inquiry Sections •
+📱 Responsive Design
+
+**My Contribution**
+
+* 🎨 Developed the frontend landing page using **JavaScript**
+* 🧩 Created responsive UI sections and interactive components
+* 📱 Optimized the interface for desktop and mobile screens
+* 🔗 Integrated frontend functionality with APIs where required
+
+**Technology**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square\&logo=css3\&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square\&logo=bootstrap\&logoColor=white)
+
+---
 
 ### 📚 Student Portal
 
