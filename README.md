@@ -69,21 +69,6 @@ My experience includes **frontend development, C#/.NET application development, 
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=sawira-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B1F3F&title_color=589FF2&icon_color=589FF2&text_color=D7E6FF" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sawira-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B1F3F&title_color=589FF2&text_color=D7E6FF" />
-
-  <br/>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sawira-dev&theme=tokyonight&hide_border=true&background=0B1F3F&stroke=589FF2&ring=589FF2&fire=589FF2&currStreakLabel=589FF2" />
-</div>
-
-<br/>
-
----
-
 ## ⭐ Featured Projects
 
 💬 LAN VoIP Communication System
@@ -297,6 +282,21 @@ Developing software projects involving **C#/.NET, networking, real-time communic
 * 💻 Hands-on experience with **React, JavaScript, C# and .NET**
 * 🧠 Currently strengthening **full-stack web development, backend development, and software architecture**
 * 📚 Continuously improving Git, GitHub, databases, APIs, and software engineering practices
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=sawira-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B1F3F&title_color=589FF2&icon_color=589FF2&text_color=D7E6FF" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sawira-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B1F3F&title_color=589FF2&text_color=D7E6FF" />
+
+  <br/>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sawira-dev&theme=tokyonight&hide_border=true&background=0B1F3F&stroke=589FF2&ring=589FF2&fire=589FF2&currStreakLabel=589FF2" />
+</div>
+
+<br/>
 
 ---
 
