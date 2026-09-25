@@ -30,11 +30,11 @@
 
 ## 👋 About Me
 
-I'm a **Software Engineer** and **7th-semester BS Computer Science student** at Islamia University Bahawalpur (RYK Campus), with **1.5+ years of practical software development experience**.
+I'm a **Software Engineer** and **BS Computer Science student** at Islamia University Bahawalpur (RYK Campus), with **1.5+ years of practical software development experience**.
 
 My experience includes **frontend development, C#/.NET application development, REST API integration, and backend technologies**. I have built web applications and interfaces using React and JavaScript, developed C#/.NET desktop applications, and worked with existing backend APIs and database-driven systems.
 
-* 🎓 BS Computer Science — 7th Semester
+* 🎓 BS Computer Science 
 * ⚛️ React & JavaScript frontend development
 * 💻 C# / .NET application development
 * 🔗 REST API integration and testing
