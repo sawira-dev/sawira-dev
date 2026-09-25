@@ -52,7 +52,7 @@ My experience includes **frontend development, C#/.NET application development, 
 ## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,dotnet,cs,js,html,css,bootstrap,firebase,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=react,dotnet,cs,js,html,css,bootstrap,firebase,git,github,visualstudio,vscode,postman" />
 </div>
 
 <br/>
@@ -61,11 +61,11 @@ My experience includes **frontend development, C#/.NET application development, 
 
 **Backend / .NET:** C# • .NET • REST APIs • API Integration
 
-**Database:** SQL Server • Firebase
+**Database:** SQL Server • Firebase 
 
 **Desktop & Networking:** WinForms • UDP • LAN Networking • NAudio • Opus
 
-**Tools:** Git • GitHub • Visual Studio • VS Code • Postman
+**Tools:** Git • GitHub • Visual Studio • VS Code • Postman 
 
 ---
 
