@@ -1,13 +1,13 @@
 <div align="center">
 
-<!-- Animated typing banner -->
+<!-- ═══════════ HEADER ═══════════ -->
+
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&pause=2500&color=3B82F6&center=true&vCenter=true&width=850&lines=Sawira+Manzoor;Software+Engineer;React+%26+.NET+Developer;C%23+%26+.NET+Developer;VoIP+%26+Networking+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&pause=2500&color=2563EB&center=true&vCenter=true&width=850&lines=Sawira+Manzoor;Software+Engineer;React+%26+.NET+Developer;C%23+%26+.NET+Developer;VoIP+%26+Networking+Enthusiast" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- Profile picture -->
 <img src="./images/propic_optimized_500.png" width="170" alt="Sawira Manzoor"/>
 
 <h1>Sawira Manzoor</h1>
@@ -16,16 +16,19 @@
 
 <p>
   <a href="mailto:sawkhan842@gmail.com">
-    <img src="https://img.shields.io/badge/Email-sawkhan842%40gmail.com-0B1F3F?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-sawkhan842%40gmail.com-EFF6FF?style=for-the-badge&logo=gmail&logoColor=2563EB&labelColor=EFF6FF" />
   </a>
   <a href="https://wa.me/923087161190">
-    <img src="https://img.shields.io/badge/WhatsApp-Contact-0B1F3F?style=for-the-badge&logo=whatsapp&logoColor=white" />
+    <img src="https://img.shields.io/badge/WhatsApp-Contact-EFF6FF?style=for-the-badge&logo=whatsapp&logoColor=2563EB&labelColor=EFF6FF" />
   </a>
   <a href="https://www.linkedin.com/in/sawira-manzoor-300557327/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0B1F3F?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-EFF6FF?style=for-the-badge&logo=linkedin&logoColor=2563EB&labelColor=EFF6FF" />
   </a>
   <a href="https://github.com/sawira-dev">
-    <img src="https://img.shields.io/badge/GitHub-sawira--dev-0B1F3F?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-sawira--dev-EFF6FF?style=for-the-badge&logo=github&logoColor=2563EB&labelColor=EFF6FF" />
+  </a>
+  <a href="./resume.pdf">
+    <img src="https://img.shields.io/badge/Resume-Download-EFF6FF?style=for-the-badge&logo=readdotcv&logoColor=2563EB&labelColor=EFF6FF" />
   </a>
 </p>
 
@@ -37,7 +40,7 @@
 
 # 👩‍💻 About Me
 
-I'm a **7th-semester Computer Science student** at **SAMA University** with **1.5+ years of practical software development experience** — including work at **Sipra Fusion / Sipra Corporation**.
+I'm a **BS Computer Science student** at **Islamia University Bahawalpur (RYK Campus)** with **1.5+ years of practical software development experience** — including work at **Sipra Fusion / Sipra Corporation**.
 
 My strongest hands-on experience includes **React/JavaScript frontend development, C#/.NET application development, REST API integration/testing, and database-driven applications**.
 
@@ -45,7 +48,7 @@ I've built corporate and educational websites, contributed to a multi-tenant Saa
 
 ### What I Work With
 
-- 🎓 BS Computer Science — 7th Semester (SAMA University)
+- 🎓 BS Computer Science — Islamia University Bahawalpur (RYK Campus)
 - ⚛️ React & JavaScript frontend development
 - 💻 C# & .NET application development
 - 🔌 REST API integration & testing
@@ -65,37 +68,37 @@ I've built corporate and educational websites, contributed to a multi-tenant Saa
 
 ### Frontend
 
-<img src="https://img.shields.io/badge/React-0B1F3F?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/JavaScript-0B1F3F?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-<img src="https://img.shields.io/badge/HTML5-0B1F3F?style=for-the-badge&logo=html5&logoColor=E34F26"/>
-<img src="https://img.shields.io/badge/CSS3-0B1F3F?style=for-the-badge&logo=css3&logoColor=1572B6"/>
-<img src="https://img.shields.io/badge/Bootstrap-0B1F3F?style=for-the-badge&logo=bootstrap&logoColor=7952B3"/>
+<img src="https://img.shields.io/badge/React-EFF6FF?style=for-the-badge&logo=react&logoColor=2563EB&labelColor=EFF6FF"/>
+<img src="https://img.shields.io/badge/JavaScript-EFF6FF?style=for-the-badge&logo=javascript&logoColor=2563EB&labelColor=EFF6FF"/>
+<img src="https://img.shields.io/badge/HTML5-EFF6FF?style=for-the-badge&logo=html5&logoColor=2563EB&labelColor=EFF6FF"/>
+<img src="https://img.shields.io/badge/CSS3-EFF6FF?style=for-the-badge&logo=css3&logoColor=2563EB&labelColor=EFF6FF"/>
+<img src="https://img.shields.io/badge/Bootstrap-EFF6FF?style=for-the-badge&logo=bootstrap&logoColor=2563EB&labelColor=EFF6FF"/>
 
 ### Backend & APIs
 
-<img src="https://img.shields.io/badge/C%23-0B1F3F?style=for-the-badge&logo=csharp&logoColor=239120"/>
-<img src="https://img.shields.io/badge/.NET-0B1F3F?style=for-the-badge&logo=dotnet&logoColor=512BD4"/>
-<img src="https://img.shields.io/badge/REST%20API-0B1F3F?style=for-the-badge&logo=fastapi&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/Postman-0B1F3F?style=for-the-badge&logo=postman&logoColor=FF6C37"/>
+<img src="https://img.shields.io/badge/C%23-EFF6FF?style=for-the-badge&logo=csharp&logoColor=2563EB&labelColor=EFF6FF"/>
+<img src="https://img.shields.io/badge/.NET-EFF6FF?style=for-the-badge&logo=dotnet&logoColor=2563EB&labelColor=EFF6FF"/>
+<img src="https://img.shields.io/badge/REST%20API-EFF6FF?style=for-the-badge&logo=fastapi&logoColor=2563EB&labelColor=EFF6FF"/>
+<img src="https://img.shields.io/badge/Postman-EFF6FF?style=for-the-badge&logo=postman&logoColor=2563EB&labelColor=EFF6FF"/>
 
 ### Database
 
-<img src="https://img.shields.io/badge/SQL%20Server-0B1F3F?style=for-the-badge&logo=microsoftsqlserver&logoColor=CC2927"/>
-<img src="https://img.shields.io/badge/Firebase-0B1F3F?style=for-the-badge&logo=firebase&logoColor=FFCA28"/>
+<img src="https://img.shields.io/badge/SQL%20Server-EFF6FF?style=for-the-badge&logo=microsoftsqlserver&logoColor=2563EB&labelColor=EFF6FF"/>
+<img src="https://img.shields.io/badge/Firebase-EFF6FF?style=for-the-badge&logo=firebase&logoColor=2563EB&labelColor=EFF6FF"/>
 
 ### Desktop & Networking
 
-<img src="https://img.shields.io/badge/WinForms-0B1F3F?style=for-the-badge&logo=windows&logoColor=00A4EF"/>
-<img src="https://img.shields.io/badge/UDP-0B1F3F?style=for-the-badge&logo=webrtc&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/NAudio-0B1F3F?style=for-the-badge&logo=audacity&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/Opus-0B1F3F?style=for-the-badge&logo=webrtc&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/WinForms-EFF6FF?style=for-the-badge&logo=windows&logoColor=2563EB&labelColor=EFF6FF"/>
+<img src="https://img.shields.io/badge/UDP-EFF6FF?style=for-the-badge&logo=webrtc&logoColor=2563EB&labelColor=EFF6FF"/>
+<img src="https://img.shields.io/badge/NAudio-EFF6FF?style=for-the-badge&logo=audacity&logoColor=2563EB&labelColor=EFF6FF"/>
+<img src="https://img.shields.io/badge/Opus-EFF6FF?style=for-the-badge&logo=webrtc&logoColor=2563EB&labelColor=EFF6FF"/>
 
 ### Tools
 
-<img src="https://img.shields.io/badge/Git-0B1F3F?style=for-the-badge&logo=git&logoColor=F05032"/>
-<img src="https://img.shields.io/badge/GitHub-0B1F3F?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/Visual%20Studio-0B1F3F?style=for-the-badge&logo=visualstudio&logoColor=5C2D91"/>
-<img src="https://img.shields.io/badge/VS%20Code-0B1F3F?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC"/>
+<img src="https://img.shields.io/badge/Git-EFF6FF?style=for-the-badge&logo=git&logoColor=2563EB&labelColor=EFF6FF"/>
+<img src="https://img.shields.io/badge/GitHub-EFF6FF?style=for-the-badge&logo=github&logoColor=2563EB&labelColor=EFF6FF"/>
+<img src="https://img.shields.io/badge/Visual%20Studio-EFF6FF?style=for-the-badge&logo=visualstudio&logoColor=2563EB&labelColor=EFF6FF"/>
+<img src="https://img.shields.io/badge/VS%20Code-EFF6FF?style=for-the-badge&logo=visualstudiocode&logoColor=2563EB&labelColor=EFF6FF"/>
 
 </div>
 
@@ -114,7 +117,7 @@ I've built corporate and educational websites, contributed to a multi-tenant Saa
 <br/><br/>
 
 <a href="https://github.com/sawira-dev">
-  <img src="https://img.shields.io/badge/🔗%20VIEW%20PROJECT-0B1F3F?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/🔗%20VISIT%20PROJECT-2563EB?style=for-the-badge&logoColor=white"/>
 </a>
 
 </div>
@@ -155,7 +158,7 @@ Designed and developed the WinForms desktop application using **C#/.NET** — in
 <br/><br/>
 
 <a href="https://demo-sfschool.sipracorporation.com/">
-  <img src="https://img.shields.io/badge/🔗%20VISIT%20SCHOOL%20MANAGEMENT%20SYSTEM-0B1F3F?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  <img src="https://img.shields.io/badge/🔗%20VISIT%20PROJECT-2563EB?style=for-the-badge&logoColor=white"/>
 </a>
 
 </div>
@@ -188,7 +191,7 @@ Designed and developed the WinForms desktop application using **C#/.NET** — in
 <br/><br/>
 
 <a href="https://sipracorporation.com/">
-  <img src="https://img.shields.io/badge/🔗%20VISIT%20SIPRA%20CORPORATION-0B1F3F?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  <img src="https://img.shields.io/badge/🔗%20VISIT%20PROJECT-2563EB?style=for-the-badge&logoColor=white"/>
 </a>
 
 </div>
@@ -208,7 +211,7 @@ Designed and developed the WinForms desktop application using **C#/.NET** — in
 <br/><br/>
 
 <a href="https://siprafusion.com/">
-  <img src="https://img.shields.io/badge/🔗%20VISIT%20SIPRA%20FUSION-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  <img src="https://img.shields.io/badge/🔗%20VISIT%20PROJECT-2563EB?style=for-the-badge&logoColor=white"/>
 </a>
 
 </div>
@@ -228,7 +231,7 @@ Designed and developed the WinForms desktop application using **C#/.NET** — in
 <br/><br/>
 
 <a href="https://sipraedu.sipracorporation.com/">
-  <img src="https://img.shields.io/badge/🔗%20VISIT%20SIPRA%20EDUCATIONAL%20PLATFORM-0B1F3F?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  <img src="https://img.shields.io/badge/🔗%20VISIT%20PROJECT-2563EB?style=for-the-badge&logoColor=white"/>
 </a>
 
 </div>
@@ -248,7 +251,7 @@ Designed and developed the WinForms desktop application using **C#/.NET** — in
 <br/><br/>
 
 <a href="https://sfschool.sipracorporation.com/">
-  <img src="https://img.shields.io/badge/🔗%20VISIT%20SF%20SCHOOL-0B1F3F?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  <img src="https://img.shields.io/badge/🔗%20VISIT%20PROJECT-2563EB?style=for-the-badge&logoColor=white"/>
 </a>
 
 </div>
@@ -268,7 +271,7 @@ Designed and developed the WinForms desktop application using **C#/.NET** — in
 <br/><br/>
 
 <a href="https://cave-sfschool.sipracorporation.com/">
-  <img src="https://img.shields.io/badge/🔗%20VISIT%20CAVE%20SCHOOL-0B1F3F?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  <img src="https://img.shields.io/badge/🔗%20VISIT%20PROJECT-2563EB?style=for-the-badge&logoColor=white"/>
 </a>
 
 </div>
@@ -288,7 +291,7 @@ Designed and developed the WinForms desktop application using **C#/.NET** — in
 <br/><br/>
 
 <a href="https://studentprojectsubmission-fab3b.web.app/">
-  <img src="https://img.shields.io/badge/🔗%20VISIT%20STUDENT%20PORTAL-0B1F3F?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  <img src="https://img.shields.io/badge/🔗%20VISIT%20PROJECT-2563EB?style=for-the-badge&logoColor=white"/>
 </a>
 
 </div>
@@ -302,13 +305,13 @@ Designed and developed the WinForms desktop application using **C#/.NET** — in
 <div align="center">
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=sawira-dev&show_icons=true&hide_border=true&theme=transparent&title_color=3B82F6&icon_color=3B82F6&text_color=D7E6FF&bg_color=0B1F3F"
+  src="https://github-readme-stats.vercel.app/api?username=sawira-dev&show_icons=true&hide_border=true&theme=transparent&title_color=2563EB&icon_color=2563EB&text_color=1E293B&bg_color=FFFFFF"
   height="180"
   alt="Sawira's GitHub Stats"
 />
 
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sawira-dev&layout=compact&hide_border=true&theme=transparent&title_color=3B82F6&text_color=D7E6FF&bg_color=0B1F3F"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sawira-dev&layout=compact&hide_border=true&theme=transparent&title_color=2563EB&text_color=1E293B&bg_color=FFFFFF"
   height="180"
   alt="Top Languages"
 />
@@ -316,7 +319,7 @@ Designed and developed the WinForms desktop application using **C#/.NET** — in
 <br/>
 
 <img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=sawira-dev&theme=transparent&hide_border=true&background=0B1F3F&stroke=3B82F6&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6&currStreakNum=D7E6FF&sideNums=D7E6FF&sideLabels=D7E6FF&dates=D7E6FF"
+  src="https://github-readme-streak-stats.herokuapp.com/?user=sawira-dev&theme=default&hide_border=true&background=FFFFFF&stroke=2563EB&ring=2563EB&fire=2563EB&currStreakLabel=2563EB&currStreakNum=1E293B&sideNums=1E293B&sideLabels=1E293B&dates=64748B"
   alt="GitHub Streak"
 />
 
@@ -369,10 +372,10 @@ Designed and developed the WinForms desktop application using **C#/.NET** — in
 
 # 🎓 Education
 
-**BS Computer Science** — SAMA University
+**BS Computer Science** — Islamia University Bahawalpur (RYK Campus)
 
 - Focused on software engineering, web technologies, and networking
-- Currently in 7th semester
+- Currently pursuing the degree
 
 ---
 
@@ -395,19 +398,23 @@ Designed and developed the WinForms desktop application using **C#/.NET** — in
 <div align="center">
 
 <a href="mailto:sawkhan842@gmail.com">
-  <img src="https://img.shields.io/badge/Email-0B1F3F?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-EFF6FF?style=for-the-badge&logo=gmail&logoColor=2563EB&labelColor=EFF6FF"/>
 </a>
 
 <a href="https://wa.me/923087161190">
-  <img src="https://img.shields.io/badge/WhatsApp-0B1F3F?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WhatsApp-EFF6FF?style=for-the-badge&logo=whatsapp&logoColor=2563EB&labelColor=EFF6FF"/>
 </a>
 
 <a href="https://www.linkedin.com/in/sawira-manzoor-300557327/">
-  <img src="https://img.shields.io/badge/LinkedIn-0B1F3F?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-EFF6FF?style=for-the-badge&logo=linkedin&logoColor=2563EB&labelColor=EFF6FF"/>
 </a>
 
 <a href="https://github.com/sawira-dev">
-  <img src="https://img.shields.io/badge/GitHub-0B1F3F?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-EFF6FF?style=for-the-badge&logo=github&logoColor=2563EB&labelColor=EFF6FF"/>
+</a>
+
+<a href="./resume.pdf">
+  <img src="https://img.shields.io/badge/Resume-EFF6FF?style=for-the-badge&logo=readdotcv&logoColor=2563EB&labelColor=EFF6FF"/>
 </a>
 
 </div>
@@ -420,6 +427,6 @@ Designed and developed the WinForms desktop application using **C#/.NET** — in
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1500&color=589FF2&center=true&vCenter=true&width=850&lines=React+Development;C%23+%26+.NET+Development;Desktop+Application+Development;REST+API+Integration;VoIP+%26+LAN+Networking;Real-Time+Communication" alt="Skills Animation"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1500&color=2563EB&center=true&vCenter=true&width=850&lines=React+Development;C%23+%26+.NET+Development;Desktop+Application+Development;REST+API+Integration;VoIP+%26+LAN+Networking;Real-Time+Communication" alt="Skills Animation"/>
 
 </div>
