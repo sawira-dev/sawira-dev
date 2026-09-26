@@ -1,9 +1,14 @@
 <!-- Animated Typing Banner -->
 
 <div align="center">
+ <div align="center">
+
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=Sawira+Manzoor;Software+Engineer;React+%26+.NET+Developer;VoIP+%26+Networking+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1200&color=589FF2&center=true&vCenter=true&width=1000&lines=Desktop+Application+Development+%7C+Web+Development;React+Development+%7C+C%23+%26+.NET+Development;Full-Stack+Development+%7C+REST+API+Integration;VoIP+Software+%7C+LAN+Networking+%7C+Real-Time+Communication" alt="Skills Typing Animation" />
   </a>
+
+</div>
+
 </div>
 
 <br/>
