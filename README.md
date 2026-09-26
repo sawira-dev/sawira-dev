@@ -3,7 +3,7 @@
 <!-- ═══════════ HEADER ═══════════ -->
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&pause=2500&color=3B82F6&center=true&vCenter=true&width=850&lines=Sawira+Manzoor;Software+Engineer;React+%26+.NET+Developer;C%23+%26+.NET+Developer;VoIP+%26+Networking+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&pause=2500&color=2563EB&center=true&vCenter=true&width=850&lines=Sawira+Manzoor;Software+Engineer;React+%26+.NET+Developer;C%23+%26+.NET+Developer;VoIP+%26+Networking+Enthusiast" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -19,7 +19,7 @@
     <img src="https://img.shields.io/badge/Email-sawkhan842%40gmail.com-2563EB?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://wa.me/923087161190">
-    <img src="https://img.shields.io/badge/WhatsApp-Contact-2563EB?style=for-the-badge&logo=whatsapp&logoColor=white" />
+    <img src="https://img.shields.io/badge/WhatsApp-Contact-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/sawira-manzoor-300557327/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -38,7 +38,7 @@
 
 <!-- ═══════════ PROFILE VIEWS ═══════════ -->
 
-<img src="https://komarev.com/ghpvc/?username=sawira-dev&label=Profile%20Views&color=2563EB&style=for-the-badge" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=sawira-dev&label=Profile%20Views&color=1E40AF&style=for-the-badge" alt="Profile Views"/>
 
 </div>
 
@@ -105,7 +105,7 @@ I've built corporate and educational websites, contributed to a multi-tenant Saa
 <br/><br/>
 
 <a href="https://github.com/sawira-dev">
-  <img src="https://img.shields.io/badge/🔗%20VISIT%20PROJECT-06B6D4?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/🔗%20VISIT%20VOIP%20PROJECT-1E40AF?style=for-the-badge&logoColor=white"/>
 </a>
 
 </div>
@@ -131,7 +131,13 @@ I've built corporate and educational websites, contributed to a multi-tenant Saa
 
 Designed and developed the WinForms desktop application using **C#/.NET** — including the client/server architecture, UDP-based LAN communication, real-time audio capture and playback, audio processing, device handling, and communication reliability features.
 
-**Technology:** C# • .NET • UDP • NAudio • Opus
+### Technology
+
+<div>
+
+<img src="https://skillicons.dev/icons?i=cs,dotnet" alt="C# and .NET"/>
+
+</div>
 
 ---
 
@@ -146,7 +152,7 @@ Designed and developed the WinForms desktop application using **C#/.NET** — in
 <br/><br/>
 
 <a href="https://demo-sfschool.sipracorporation.com/">
-  <img src="https://img.shields.io/badge/🔗%20VISIT%20PROJECT-06B6D4?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/🔗%20VISIT%20SCHOOL%20MANAGEMENT%20SYSTEM-1E40AF?style=for-the-badge&logoColor=white"/>
 </a>
 
 </div>
@@ -164,7 +170,13 @@ Designed and developed the WinForms desktop application using **C#/.NET** — in
 - Worked on frontend authentication and role-based interfaces
 - Contributed to the frontend of a multi-tenant SaaS school management platform
 
-**Technology:** JavaScript • C# • .NET • REST API • SQL Server
+### Technology
+
+<div>
+
+<img src="https://skillicons.dev/icons?i=js,cs,dotnet,mysql" alt="JavaScript, C#, .NET, SQL Server"/>
+
+</div>
 
 ---
 
@@ -179,12 +191,18 @@ Designed and developed the WinForms desktop application using **C#/.NET** — in
 <br/><br/>
 
 <a href="https://sipracorporation.com/">
-  <img src="https://img.shields.io/badge/🔗%20VISIT%20PROJECT-06B6D4?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/🔗%20VISIT%20SIPRA%20CORPORATION-1E40AF?style=for-the-badge&logoColor=white"/>
 </a>
 
 </div>
 
-**Technology:** React • Bootstrap • CSS3 • JavaScript
+### Technology
+
+<div>
+
+<img src="https://skillicons.dev/icons?i=react,bootstrap,css,js" alt="React, Bootstrap, CSS, JavaScript"/>
+
+</div>
 
 ---
 
@@ -199,12 +217,18 @@ Designed and developed the WinForms desktop application using **C#/.NET** — in
 <br/><br/>
 
 <a href="https://siprafusion.com/">
-  <img src="https://img.shields.io/badge/🔗%20VISIT%20PROJECT-06B6D4?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/🔗%20VISIT%20SIPRA%20FUSION-1E40AF?style=for-the-badge&logoColor=white"/>
 </a>
 
 </div>
 
-**Technology:** React • JavaScript • Bootstrap • CSS3
+### Technology
+
+<div>
+
+<img src="https://skillicons.dev/icons?i=react,js,bootstrap,css" alt="React, JavaScript, Bootstrap, CSS"/>
+
+</div>
 
 ---
 
@@ -219,12 +243,18 @@ Designed and developed the WinForms desktop application using **C#/.NET** — in
 <br/><br/>
 
 <a href="https://sipraedu.sipracorporation.com/">
-  <img src="https://img.shields.io/badge/🔗%20VISIT%20PROJECT-06B6D4?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/🔗%20VISIT%20SIPRA%20EDUCATIONAL%20PLATFORM-1E40AF?style=for-the-badge&logoColor=white"/>
 </a>
 
 </div>
 
-**Technology:** React • JavaScript • CSS3 • Bootstrap
+### Technology
+
+<div>
+
+<img src="https://skillicons.dev/icons?i=react,js,css,bootstrap" alt="React, JavaScript, CSS, Bootstrap"/>
+
+</div>
 
 ---
 
@@ -239,12 +269,18 @@ Designed and developed the WinForms desktop application using **C#/.NET** — in
 <br/><br/>
 
 <a href="https://sfschool.sipracorporation.com/">
-  <img src="https://img.shields.io/badge/🔗%20VISIT%20PROJECT-06B6D4?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/🔗%20VISIT%20SFSCHOOL-1E40AF?style=for-the-badge&logoColor=white"/>
 </a>
 
 </div>
 
-**Technology:** JavaScript • HTML5 • CSS3 • Bootstrap
+### Technology
+
+<div>
+
+<img src="https://skillicons.dev/icons?i=js,html,css,bootstrap" alt="JavaScript, HTML, CSS, Bootstrap"/>
+
+</div>
 
 ---
 
@@ -259,12 +295,18 @@ Designed and developed the WinForms desktop application using **C#/.NET** — in
 <br/><br/>
 
 <a href="https://cave-sfschool.sipracorporation.com/">
-  <img src="https://img.shields.io/badge/🔗%20VISIT%20PROJECT-06B6D4?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/🔗%20VISIT%20CAVE%20SCHOOL-1E40AF?style=for-the-badge&logoColor=white"/>
 </a>
 
 </div>
 
-**Technology:** JavaScript • Bootstrap • CSS3
+### Technology
+
+<div>
+
+<img src="https://skillicons.dev/icons?i=js,bootstrap,css" alt="JavaScript, Bootstrap, CSS"/>
+
+</div>
 
 ---
 
@@ -279,12 +321,41 @@ Designed and developed the WinForms desktop application using **C#/.NET** — in
 <br/><br/>
 
 <a href="https://studentprojectsubmission-fab3b.web.app/">
-  <img src="https://img.shields.io/badge/🔗%20VISIT%20PROJECT-06B6D4?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/🔗%20VISIT%20STUDENT%20PORTAL-1E40AF?style=for-the-badge&logoColor=white"/>
 </a>
 
 </div>
 
-**Technology:** HTML5 • CSS3 • JavaScript • Firebase • Bootstrap
+### Technology
+
+<div>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,firebase,bootstrap" alt="HTML, CSS, JavaScript, Firebase, Bootstrap"/>
+
+</div>
+
+---
+
+# 📊 GitHub Streak
+
+<div align="center">
+
+<img
+  src="https://github-readme-streak-stats.herokuapp.com/?user=sawira-dev&theme=default&hide_border=true&background=FFFFFF&stroke=1E40AF&ring=1E40AF&fire=1E40AF&currStreakLabel=1E40AF&currStreakNum=1E293B&sideNums=1E293B&sideLabels=1E293B&dates=64748B"
+  alt="GitHub Streak"
+/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<a href="https://github.com/sawira-dev?tab=repositories">
+  <img src="https://img.shields.io/badge/VIEW%20ALL%20REPOSITORIES-1E40AF?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
@@ -378,6 +449,6 @@ Designed and developed the WinForms desktop application using **C#/.NET** — in
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1500&color=3B82F6&center=true&vCenter=true&width=850&lines=React+Development;C%23+%26+.NET+Development;Desktop+Application+Development;REST+API+Integration;VoIP+%26+LAN+Networking;Real-Time+Communication" alt="Skills Animation"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1500&color=2563EB&center=true&vCenter=true&width=850&lines=React+Development;C%23+%26+.NET+Development;Desktop+Application+Development;REST+API+Integration;VoIP+%26+LAN+Networking;Real-Time+Communication" alt="Skills Animation"/>
 
 </div>
