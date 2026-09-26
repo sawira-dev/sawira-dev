@@ -1,17 +1,13 @@
 <div align="center">
 
-<!-- ===================================================== -->
-
-<!-- HEADER -->
-
-<!-- ===================================================== -->
-
+<!-- Animated typing banner -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&pause=2500&color=3B82F6&center=true&vCenter=true&width=850&lines=Sawira+Manzoor;Software+Engineer;React+%26+.NET+Developer;C%23+%26+.NET+Developer;VoIP+%26+Networking+Enthusiast" alt="Typing SVG" />
 </a>
 
 <br/>
 
+<!-- Profile picture -->
 <img src="./images/propic_optimized_500.png" width="170" alt="Sawira Manzoor"/>
 
 <h1>Sawira Manzoor</h1>
@@ -33,9 +29,7 @@
   </a>
 </p>
 
-<p>
-  📍 Rahim Yar Khan, Punjab, Pakistan
-</p>
+<p>📍 Rahim Yar Khan, Punjab, Pakistan</p>
 
 </div>
 
@@ -43,25 +37,25 @@
 
 # 👩‍💻 About Me
 
-I’m a **7th-semester Computer Science student** with **1.5+ years of practical software development experience** at Sipra Corporation.
+I'm a **7th-semester Computer Science student** at **SAMA University** with **1.5+ years of practical software development experience** — including work at **Sipra Fusion / Sipra Corporation**.
 
 My strongest hands-on experience includes **React/JavaScript frontend development, C#/.NET application development, REST API integration/testing, and database-driven applications**.
 
-I have worked on corporate and educational websites, a multi-tenant SaaS School Management System, and a real-time LAN-based VoIP desktop application.
+I've built corporate and educational websites, contributed to a multi-tenant SaaS School Management System, and engineered a real-time LAN-based VoIP desktop application from scratch.
 
 ### What I Work With
 
-* 🎓 BS Computer Science — 7th Semester
-* ⚛️ React & JavaScript frontend development
-* 💻 C# & .NET application development
-* 🔌 REST API integration & testing
-* 🗄️ SQL Server & Firebase
-* 🖥️ .NET WinForms desktop applications
-* 📡 UDP & LAN networking
-* 🎙️ Real-time VoIP communication
-* 🏫 Frontend development for a multi-tenant SaaS School Management System
-* 🌐 Corporate & educational websites
-* 🚀 Currently strengthening ASP.NET Core and backend development
+- 🎓 BS Computer Science — 7th Semester (SAMA University)
+- ⚛️ React & JavaScript frontend development
+- 💻 C# & .NET application development
+- 🔌 REST API integration & testing
+- 🗄️ SQL Server & Firebase
+- 🖥️ .NET WinForms desktop applications
+- 📡 UDP & LAN networking
+- 🎙️ Real-time VoIP communication
+- 🏫 Frontend development for a multi-tenant SaaS School Management System
+- 🌐 Corporate & educational websites
+- 🚀 Currently strengthening ASP.NET Core and backend development
 
 ---
 
@@ -127,26 +121,24 @@ I have worked on corporate and educational websites, a multi-tenant SaaS School 
 
 ### Application Type
 
-🖥️ Windows Forms Desktop Application
-📡 LAN Communication
-🎙️ Real-Time Voice Communication
+🖥️ Windows Forms Desktop Application • 📡 LAN Communication • 🎙️ Real-Time Voice Communication
 
 ### Features
 
-* 🔊 Full-Duplex Voice Communication
-* 🎵 Opus Audio Compression
-* 🎧 Real-Time Audio Capture & Playback
-* 🔇 Noise Suppression
-* 🚫 Echo Cancellation
-* 📦 Jitter Buffer
-* 🔄 Packet Recovery
-* 🎙️ Audio Device Switching
-* 🌐 Wired & Wireless LAN Communication
-* 🔌 UDP Client/Server Communication
+- 🔊 Full-Duplex Voice Communication
+- 🎵 Opus Audio Compression
+- 🎧 Real-Time Audio Capture & Playback
+- 🔇 Noise Suppression
+- 🚫 Echo Cancellation
+- 📦 Jitter Buffer
+- 🔄 Packet Recovery
+- 🎙️ Audio Device Switching
+- 🌐 Wired & Wireless LAN Communication
+- 🔌 UDP Client/Server Communication
 
 ### Contribution
 
-Designed and developed the WinForms desktop application using **C#/.NET**, including the client/server architecture, UDP-based LAN communication, real-time audio capture and playback, audio processing, device handling, and communication reliability features.
+Designed and developed the WinForms desktop application using **C#/.NET** — including the client/server architecture, UDP-based LAN communication, real-time audio capture and playback, audio processing, device handling, and communication reliability features.
 
 **Technology:** C# • .NET • UDP • NAudio • Opus
 
@@ -170,31 +162,16 @@ Designed and developed the WinForms desktop application using **C#/.NET**, inclu
 
 ### Features
 
-* 👨‍💼 Admin Portal
-* 👨‍🎓 Student Portal
-* 👨‍🏫 Teacher Portal
-* 👪 Parent Portal
-* 📝 Admission Management
-* 📊 Reports
-* 📚 Course Material
-* 📖 Library Management
-* 🚌 Drivers & Routes
-* 🚍 Bus Management
-* 🪪 Student Cards
-* 📋 Results & Report Cards
-* 🗓️ Exam Timetable
-* 📅 Attendance
-* 🔔 Notifications
-* 💬 Chat
+👨‍💼 Admin Portal • 👨‍🎓 Student Portal • 👩‍🏫 Teacher Portal • 👨‍👩‍👧 Parent Portal • 📝 Admission Management • 📊 Reports • 📚 Course Material • 📖 Library Management • 🚌 Drivers & Routes • 🚍 Bus Management • 🪪 Student Cards • 📋 Results & Report Cards • 🗓️ Exam Timetable • 📅 Attendance • 🔔 Notifications • 💬 Chat
 
 ### Contribution
 
-* Developed frontend interfaces using **JavaScript**
-* Built dashboards, forms, and data-driven views
-* Integrated existing **REST APIs**
-* Performed API/application testing
-* Worked on frontend authentication and role-based interfaces
-* Contributed to the frontend of a multi-tenant SaaS school management platform
+- Developed frontend interfaces using **JavaScript**
+- Built dashboards, forms, and data-driven views
+- Integrated existing **REST APIs**
+- Performed API/application testing
+- Worked on frontend authentication and role-based interfaces
+- Contributed to the frontend of a multi-tenant SaaS school management platform
 
 **Technology:** JavaScript • C# • .NET • REST API • SQL Server
 
@@ -325,15 +302,22 @@ Designed and developed the WinForms desktop application using **C#/.NET**, inclu
 <div align="center">
 
 <img
-src="https://github-readme-stats.vercel.app/api?username=sawira-dev&show_icons=true&hide_border=true&theme=transparent&title_color=3B82F6&icon_color=3B82F6&text_color=D7E6FF&bg_color=0B1F3F"
-height="180"
-alt="Sawira's GitHub Stats"
+  src="https://github-readme-stats.vercel.app/api?username=sawira-dev&show_icons=true&hide_border=true&theme=transparent&title_color=3B82F6&icon_color=3B82F6&text_color=D7E6FF&bg_color=0B1F3F"
+  height="180"
+  alt="Sawira's GitHub Stats"
 />
 
 <img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=sawira-dev&layout=compact&hide_border=true&theme=transparent&title_color=3B82F6&text_color=D7E6FF&bg_color=0B1F3F"
-height="180"
-alt="Top Languages"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sawira-dev&layout=compact&hide_border=true&theme=transparent&title_color=3B82F6&text_color=D7E6FF&bg_color=0B1F3F"
+  height="180"
+  alt="Top Languages"
+/>
+
+<br/>
+
+<img
+  src="https://github-readme-streak-stats.herokuapp.com/?user=sawira-dev&theme=transparent&hide_border=true&background=0B1F3F&stroke=3B82F6&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6&currStreakNum=D7E6FF&sideNums=D7E6FF&sideLabels=D7E6FF&dates=D7E6FF"
+  alt="GitHub Streak"
 />
 
 </div>
@@ -354,46 +338,55 @@ alt="Top Languages"
 
 ### React / Frontend Developer
 
-**Sipra Corporation • 2025**
+**Sipra Fusion — 2025**
 
-* Developed React-based corporate and educational websites
-* Created responsive interfaces and reusable components
-* Worked with JavaScript, Bootstrap and CSS3
-* Implemented UI/UX improvements across multiple web projects
+- Developed React-based corporate and educational websites
+- Created responsive interfaces and reusable components
+- Worked with JavaScript, Bootstrap and CSS3
+- Implemented UI/UX improvements across multiple web projects
 
 ### Web Developer — SaaS & API Integration
 
-**2025 – 2026**
+**Sipra Fusion — 2025 – 2026**
 
-* Worked on the frontend of a multi-tenant SaaS School Management System
-* Developed JavaScript dashboards, forms and data-driven interfaces
-* Integrated and tested existing REST APIs
-* Worked with role-based interfaces and authentication flows
-* Worked with database-driven application functionality
+- Worked on the frontend of a multi-tenant SaaS School Management System
+- Developed JavaScript dashboards, forms and data-driven interfaces
+- Integrated and tested existing REST APIs
+- Worked with role-based interfaces and authentication flows
+- Worked with database-driven application functionality
 
 ### Software Engineering Projects
 
 **2026 – Present**
 
-* Developed a C#/.NET WinForms LAN VoIP application
-* Implemented UDP-based client/server communication
-* Worked with real-time audio capture, processing and playback
-* Implemented networking and communication reliability features
-* Currently strengthening ASP.NET Core and backend development skills
+- Developed a C#/.NET WinForms LAN VoIP application
+- Implemented UDP-based client/server communication
+- Worked with real-time audio capture, processing and playback
+- Implemented networking and communication reliability features
+- Currently strengthening ASP.NET Core and backend development skills
+
+---
+
+# 🎓 Education
+
+**BS Computer Science** — SAMA University
+
+- Focused on software engineering, web technologies, and networking
+- Currently in 7th semester
 
 ---
 
 # 🏆 Achievements & Highlights
 
-* 🚀 Developed a LAN-based VoIP application from scratch
-* 🌐 Built corporate and educational websites using React
-* 🏫 Contributed to the frontend of a multi-tenant SaaS School Management System
-* 🔌 Integrated and tested REST APIs
-* 💻 Hands-on experience with C#, .NET and WinForms
-* ⚛️ React & JavaScript frontend development
-* 📡 Practical experience with UDP and LAN networking
-* 🗄️ Experience with SQL Server and Firebase
-* 🔧 Continuously strengthening backend and full-stack development skills
+- 🚀 Developed a LAN-based VoIP application from scratch
+- 🌐 Built corporate and educational websites using React
+- 🏫 Contributed to the frontend of a multi-tenant SaaS School Management System
+- 🔌 Integrated and tested REST APIs
+- 💻 Hands-on experience with C#, .NET and WinForms
+- ⚛️ React & JavaScript frontend development
+- 📡 Practical experience with UDP and LAN networking
+- 🗄️ Experience with SQL Server and Firebase
+- 🔧 Continuously strengthening backend and full-stack development skills
 
 ---
 
