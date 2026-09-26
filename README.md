@@ -1,37 +1,72 @@
-<!-- Animated Typing Banner -->
+<!-- ========================================================= -->
+
+<!-- ANIMATED PROFILE HEADER                                  -->
+
+<!-- ========================================================= -->
 
 <div align="center">
- <div align="center">
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1200&color=589FF2&center=true&vCenter=true&width=1000&lines=Desktop+Application+Development+%7C+Web+Development;React+Development+%7C+C%23+%26+.NET+Development;Full-Stack+Development+%7C+REST+API+Integration;VoIP+Software+%7C+LAN+Networking+%7C+Real-Time+Communication" alt="Skills Typing Animation" />
+    <img
+      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&pause=2500&color=3B82F6&center=true&vCenter=true&width=850&lines=Sawira+Manzoor;Software+Engineer;React+%26+.NET+Developer;C%23+%26+.NET+Developer;VoIP+%26+Networking+Enthusiast"
+      alt="Typing SVG"
+    />
   </a>
-
-</div>
 
 </div>
 
 <br/>
 
-<!-- Profile Picture + Introduction -->
+<!-- ========================================================= -->
+
+<!-- PROFILE INTRODUCTION                                     -->
+
+<!-- ========================================================= -->
 
 <div align="center">
-  <img src="./images/propic_optimized_500.png" width="180" style="border-radius: 50%;" alt="Sawira Manzoor" />
+
+<img
+ src="./images/propic_optimized_500.png"
+ width="180"
+ style="border-radius: 50%;"
+ alt="Sawira Manzoor"
+/>
+
   <h2>Sawira Manzoor</h2>
+
   <h4>Software Engineer • React & .NET Developer</h4>
+
   <p>
-    <a href="mailto:sawkhan842@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-    <a href="https://wa.me/923087161190"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-    <a href="https://www.linkedin.com/in/sawira-manzoor-300557327/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="https://github.com/sawira-dev"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/Portfolio-0B1F3F?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+    <a href="mailto:sawkhan842@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+    <a href="https://wa.me/923087161190">
+      <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+    </a>
+    <a href="https://www.linkedin.com/in/sawira-manzoor-300557327/">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="https://github.com/sawira-dev">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+    <a href="#">
+      <img src="https://img.shields.io/badge/Portfolio-0B1F3F?style=for-the-badge&logo=About.me&logoColor=white" />
+    </a>
   </p>
+
   <p>📍 Rahim Yar Khan, Punjab, Pakistan</p>
+
 </div>
 
 <br/>
 
 ---
+
+<!-- ========================================================= -->
+
+<!-- ABOUT ME                                                  -->
+
+<!-- ========================================================= -->
 
 ## 👋 About Me
 
@@ -39,7 +74,7 @@ I'm a **Software Engineer** and **BS Computer Science student** at Islamia Unive
 
 My experience includes **frontend development, C#/.NET application development, REST API integration, and backend technologies**. I have built web applications and interfaces using React and JavaScript, developed C#/.NET desktop applications, and worked with existing backend APIs and database-driven systems.
 
-* 🎓 BS Computer Science 
+* 🎓 BS Computer Science
 * ⚛️ React & JavaScript frontend development
 * 💻 C# / .NET application development
 * 🔗 REST API integration and testing
@@ -54,10 +89,34 @@ My experience includes **frontend development, C#/.NET application development, 
 
 ---
 
+<!-- ========================================================= -->
+
+<!-- TECH STACK                                                -->
+
+<!-- ========================================================= -->
+
 ## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,dotnet,cs,js,html,css,bootstrap,firebase,git,github,visualstudio,vscode,postman" />
+
+  <img src="https://img.shields.io/badge/React-0B1F3F?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/.NET-0B1F3F?style=for-the-badge&logo=dotnet&logoColor=512BD4" />
+  <img src="https://img.shields.io/badge/C%23-0B1F3F?style=for-the-badge&logo=csharp&logoColor=239120" />
+  <img src="https://img.shields.io/badge/JavaScript-0B1F3F?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/HTML5-0B1F3F?style=for-the-badge&logo=html5&logoColor=E34F26" />
+  <img src="https://img.shields.io/badge/CSS3-0B1F3F?style=for-the-badge&logo=css3&logoColor=1572B6" />
+  <img src="https://img.shields.io/badge/Bootstrap-0B1F3F?style=for-the-badge&logo=bootstrap&logoColor=7952B3" />
+  <img src="https://img.shields.io/badge/Firebase-0B1F3F?style=for-the-badge&logo=firebase&logoColor=FFCA28" />
+
+  <br/>
+
+  <img src="https://img.shields.io/badge/SQL%20Server-0B1F3F?style=for-the-badge&logo=microsoftsqlserver&logoColor=CC2927" />
+  <img src="https://img.shields.io/badge/Git-0B1F3F?style=for-the-badge&logo=git&logoColor=F05032" />
+  <img src="https://img.shields.io/badge/GitHub-0B1F3F?style=for-the-badge&logo=github&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/VS%20Code-0B1F3F?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" />
+  <img src="https://img.shields.io/badge/Visual%20Studio-0B1F3F?style=for-the-badge&logo=visualstudio&logoColor=5C2D91" />
+  <img src="https://img.shields.io/badge/Postman-0B1F3F?style=for-the-badge&logo=postman&logoColor=FF6C37" />
+
 </div>
 
 <br/>
@@ -66,22 +125,36 @@ My experience includes **frontend development, C#/.NET application development, 
 
 **Backend / .NET:** C# • .NET • REST APIs • API Integration
 
-**Database:** SQL Server • Firebase 
+**Database:** SQL Server • Firebase
 
 **Desktop & Networking:** WinForms • UDP • LAN Networking • NAudio • Opus
 
-**Tools:** Git • GitHub • Visual Studio • VS Code • Postman 
+**Tools:** Git • GitHub • Visual Studio • VS Code • Postman
 
 ---
 
+<!-- ========================================================= -->
+
+<!-- FEATURED PROJECTS                                        -->
+
+<!-- ========================================================= -->
+
 ## ⭐ Featured Projects
+
+<!-- ===================== VOIP ============================= -->
 
 ### 💬 LAN VoIP Communication System
 
 > *C#/.NET WinForms desktop application for real-time voice communication over wired and wireless LAN networks*
 
 <div align="center">
-  <img src="./images/voip.png" width="80%" alt="LAN VoIP WinForms Desktop Application" />
+
+<img
+ src="./images/voip.png"
+ width="80%"
+ alt="LAN VoIP WinForms Desktop Application"
+/>
+
 </div>
 
 **Application Type**
@@ -105,7 +178,7 @@ Designed and developed the WinForms desktop application using **C#/.NET**, inclu
 
 **Tech Stack**
 
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square\&logo=c-sharp\&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square\&logo=csharp\&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square\&logo=dotnet\&logoColor=white)
 ![UDP](https://img.shields.io/badge/UDP-0078D6?style=flat-square\&logoColor=white)
 ![NAudio](https://img.shields.io/badge/NAudio-5C2D91?style=flat-square\&logo=nuget\&logoColor=white)
@@ -113,16 +186,23 @@ Designed and developed the WinForms desktop application using **C#/.NET**, inclu
 
 ---
 
+<!-- ================= SCHOOL SYSTEM ======================== -->
+
 ### 🏫 Multi-Tenant SaaS School Management System
 
 > *Multi-tenant SaaS school management platform with role-based portals and academic management modules*
 
 <div align="center">
-  <img src="./images/school.png" width="80%" alt="School Management System" />
+
+<img
+ src="./images/school.png"
+ width="80%"
+ alt="School Management System"
+/>
+
 </div>
 
 **Features**
-
 
 👨‍💼 Admin Portal •
 👨‍🎓 Student Portal •
@@ -153,19 +233,33 @@ Designed and developed the WinForms desktop application using **C#/.NET**, inclu
 **Technology**
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square\&logo=c-sharp\&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square\&logo=csharp\&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square\&logo=dotnet\&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-02569B?style=flat-square\&logo=api\&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square\&logo=microsoft-sql-server\&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=flat-square\&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square\&logo=microsoftsqlserver\&logoColor=white)
+
+<p>
+  <a href="https://demo-sfschool.sipracorporation.com/">
+    <img src="https://img.shields.io/badge/🌐%20Visit%20School%20Management%20System-0B1F3F?style=for-the-badge&logoColor=white" />
+  </a>
+</p>
 
 ---
+
+<!-- ================= SIPRA CORPORATION ==================== -->
 
 ### 🌐 Sipra Corporation Website
 
 > *Modern corporate website with smooth animations*
 
 <div align="center">
-  <img src="./images/sipra.png" width="80%" alt="Sipra Corporation Website" />
+
+<img
+ src="./images/sipra.png"
+ width="80%"
+ alt="Sipra Corporation Website"
+/>
+
 </div>
 
 **Technology**
@@ -175,14 +269,28 @@ Designed and developed the WinForms desktop application using **C#/.NET**, inclu
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square\&logo=css3\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
 
+<p>
+  <a href="https://sipracorporation.com/">
+    <img src="https://img.shields.io/badge/🌐%20Visit%20Sipra%20Corporation-0B1F3F?style=for-the-badge&logoColor=white" />
+  </a>
+</p>
+
 ---
+
+<!-- ================= SIPRA FUSION ========================== -->
 
 ### 🔷 Sipra Fusion Website
 
 > *Corporate website for a technology-focused business division*
 
 <div align="center">
-  <img src="./images/siprafusion.png" width="80%" alt="Sipra Fusion Website" />
+
+<img
+ src="./images/siprafusion.png"
+ width="80%"
+ alt="Sipra Fusion Website"
+/>
+
 </div>
 
 **Technology**
@@ -192,14 +300,28 @@ Designed and developed the WinForms desktop application using **C#/.NET**, inclu
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square\&logo=bootstrap\&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square\&logo=css3\&logoColor=white)
 
+<p>
+  <a href="https://siprafusion.com/">
+    <img src="https://img.shields.io/badge/🌐%20Visit%20Sipra%20Fusion-0B1F3F?style=for-the-badge&logoColor=white" />
+  </a>
+</p>
+
 ---
+
+<!-- ================= SIPRA EDUCATION ======================= -->
 
 ### 🎓 Sipra Educational Platform
 
 > *Training programs website with course listings and registration*
 
 <div align="center">
-  <img src="./images/sipraedu.png" width="80%" alt="Sipra Educational Platform" />
+
+<img
+ src="./images/sipraedu.png"
+ width="80%"
+ alt="Sipra Educational Platform"
+/>
+
 </div>
 
 **Features**
@@ -217,13 +339,28 @@ Designed and developed the WinForms desktop application using **C#/.NET**, inclu
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square\&logo=css3\&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square\&logo=bootstrap\&logoColor=white)
 
+<p>
+  <a href="https://sipraedu.sipracorporation.com/">
+    <img src="https://img.shields.io/badge/🌐%20Visit%20Sipra%20Educational%20Platform-0B1F3F?style=for-the-badge&logoColor=white" />
+  </a>
+</p>
+
 ---
+
+<!-- ================= SFSCHOOL LANDING ===================== -->
+
 ### 🏫 SFSchool Landing Page
 
 > *Modern landing page for a multi-tenant school management platform*
 
 <div align="center">
-  <img src="./images/sfschool.png" width="80%" alt="SFSchool Landing Page" />
+
+<img
+ src="./images/sfschool.png"
+ width="80%"
+ alt="SFSchool Landing Page"
+/>
+
 </div>
 
 **Features**
@@ -248,14 +385,67 @@ Designed and developed the WinForms desktop application using **C#/.NET**, inclu
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square\&logo=css3\&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square\&logo=bootstrap\&logoColor=white)
 
+<p>
+  <a href="https://sfschool.sipracorporation.com/">
+    <img src="https://img.shields.io/badge/🌐%20Visit%20SFSchool-0B1F3F?style=for-the-badge&logoColor=white" />
+  </a>
+</p>
+
 ---
+
+<!-- ================= CAVE SCHOOL =========================== -->
+
+### 🏫 Cave School Landing Page
+
+> *Modern, responsive landing page for the Cave School management platform*
+
+<div align="center">
+
+<img
+ src="./images/cave-school-landing.png"
+ width="80%"
+ alt="Cave School Landing Page"
+/>
+
+</div>
+
+**Features**
+
+🌐 Responsive Landing Page •
+🏫 School Platform Overview •
+📋 Platform Features & Modules •
+📞 Inquiry Sections •
+📱 Responsive Design
+
+**Technology**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square\&logo=css3\&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square\&logo=bootstrap\&logoColor=white)
+
+<p>
+  <a href="https://cave-sfschool.sipracorporation.com/">
+    <img src="https://img.shields.io/badge/🌐%20Visit%20Cave%20School-0B1F3F?style=for-the-badge&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<!-- ================= STUDENT PORTAL ======================== -->
 
 ### 📚 Student Portal
 
 > *Firebase-powered student dashboard*
 
 <div align="center">
-  <img src="./images/student-portal.png" width="80%" alt="Student Portal" />
+
+<img
+ src="./images/student-portal.png"
+ width="80%"
+ alt="Student Portal"
+/>
+
 </div>
 
 **Features**
@@ -276,6 +466,12 @@ Designed and developed the WinForms desktop application using **C#/.NET**, inclu
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square\&logo=bootstrap\&logoColor=white)
 
 ---
+
+<!-- ========================================================= -->
+
+<!-- EXPERIENCE                                                -->
+
+<!-- ========================================================= -->
 
 ## 💼 Experience
 
@@ -312,6 +508,12 @@ Developing software projects involving **C#/.NET, networking, real-time communic
 
 ---
 
+<!-- ========================================================= -->
+
+<!-- ACHIEVEMENTS                                              -->
+
+<!-- ========================================================= -->
+
 ## 🏆 Achievements & Learning
 
 * 🥇 Built a fully functional **LAN-based VoIP communication system** from scratch
@@ -324,38 +526,103 @@ Developing software projects involving **C#/.NET, networking, real-time communic
 
 ---
 
+<!-- ========================================================= -->
+
+<!-- GITHUB STATS                                             -->
+
+<!-- ========================================================= -->
+
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=sawira-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B1F3F&title_color=589FF2&icon_color=589FF2&text_color=D7E6FF" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sawira-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B1F3F&title_color=589FF2&text_color=D7E6FF" />
 
-  <br/>
+<img
+ height="170em"
+ src="https://github-readme-stats.vercel.app/api?username=sawira-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B1F3F&title_color=589FF2&icon_color=589FF2&text_color=D7E6FF"
+/>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sawira-dev&theme=tokyonight&hide_border=true&background=0B1F3F&stroke=589FF2&ring=589FF2&fire=589FF2&currStreakLabel=589FF2" />
+<img
+ height="170em"
+ src="https://github-readme-stats.vercel.app/api/top-langs/?username=sawira-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B1F3F&title_color=589FF2&text_color=D7E6FF"
+/>
+
+</div>
+
+<br/>
+
+<!-- ========================================================= -->
+
+<!-- ANIMATED SKILLS LINE                                     -->
+
+<!-- ========================================================= -->
+
+<div align="center">
+
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1400&color=589FF2&center=true&vCenter=true&width=1000&lines=Desktop+Application+Development+%7C+Web+Development;React+Development+%7C+C%23+%26+.NET+Development;Full-Stack+Development+%7C+REST+API+Integration;VoIP+Software+%7C+LAN+Networking+%7C+Real-Time+Communication"
+      alt="Skills Typing Animation"
+    />
+  </a>
+
 </div>
 
 <br/>
 
 ---
 
+<!-- ========================================================= -->
+
+<!-- CONNECT                                                  -->
+
+<!-- ========================================================= -->
+
 ## 📬 Let's Connect
 
 I'm open to **internships**, **freelance projects**, **full-time roles**, and **collaborations**.
 
 <div align="center">
-  <a href="mailto:sawkhan842@gmail.com"><img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://wa.me/923087161190"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/sawira-manzoor-300557327/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/sawira-dev"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-0B1F3F?style=for-the-badge&logo=About.me&logoColor=white" /></a>
-  <a href="./resume.pdf"><img src="https://img.shields.io/badge/Resume-3B82F6?style=for-the-badge&logo=readthedocs&logoColor=white" /></a>
+
+  <a href="mailto:sawkhan842@gmail.com">
+    <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://wa.me/923087161190">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/sawira-manzoor-300557327/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/sawira-dev">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <a href="#">
+    <img src="https://img.shields.io/badge/Portfolio-0B1F3F?style=for-the-badge&logo=About.me&logoColor=white" />
+  </a>
+
+  <a href="./resume.pdf">
+    <img src="https://img.shields.io/badge/Resume-3B82F6?style=for-the-badge&logo=readthedocs&logoColor=white" />
+  </a>
+
 </div>
 
 <br/>
 
+<!-- ========================================================= -->
+
+<!-- FOOTER                                                    -->
+
+<!-- ========================================================= -->
+
 <div align="center">
-  <sub>⭐ <em>"Code with purpose. Build with passion."</em></sub>
+
+<sub>⭐ <em>"Code with purpose. Build with passion."</em></sub>
+
   <br/>
-  <sub><strong>Sawira Manzoor</strong> – Software Engineer</sub>
+
+<sub><strong>Sawira Manzoor</strong> – Software Engineer</sub>
+
 </div>
