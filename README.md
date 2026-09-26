@@ -104,8 +104,7 @@ I've built corporate and educational websites, contributed to a multi-tenant Saa
 
 <br/><br/>
 
-  <img src="https://img.shields.io/badge/🔗%20VISIT%20VOIP%20PROJECT-1E40AF?style=for-the-badge&logoColor=white"/>
-</a>
+  
 
 </div>
 
