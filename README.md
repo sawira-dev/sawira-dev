@@ -13,7 +13,6 @@
 <h1>Sawira Manzoor</h1>
 
 <h3>Software Engineer • React & .NET Developer</h3>
-
 <p>
   <a href="mailto:sawkhan842@gmail.com">
     <img src="https://img.shields.io/badge/Email-sawkhan842%40gmail.com-2563EB?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -26,6 +25,9 @@
   </a>
   <a href="https://github.com/sawira-dev">
     <img src="https://img.shields.io/badge/GitHub-sawira--dev-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://sawira-dev.github.io/sawira-portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-1E40AF?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
   <a href="./resume.pdf">
     <img src="https://img.shields.io/badge/Resume-Download-EF4444?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
